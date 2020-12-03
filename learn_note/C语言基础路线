@@ -1,0 +1,59 @@
+
+链接：https://www.zhihu.com/question/22524467/answer/32762832
+来源：知乎
+
+
+基础（C语言入门，初学，编程基础）
+1、《C语言程序设计：现代方法》（第2版）（C Programming: A Modern Approach, 2nd Edition, K.N.King）
+
+2、《深入理解计算机系统》（修订版或第2版）（Computer Systems: A Programmer's Perspective,Randal E. Bryant et al）
+阅读建议:https://link.zhihu.com/?target=http%3A//www.cnblogs.com/JeffreyZhao/archive/2009/11/23/recommended-reading-3-csapp.html
+
+3、《C语言程序设计》（第2版）（The C Programming Language, Brian W. Kernighan & Dennis M.Ritchie）
+
+4、《程序员修炼之道》（The Pragmatic Programmer: From Journeyman to master, Andy Hunt & Dave Thomas）
+
+
+
+内核/驱动
+1、《Linux内核设计与实现》（第3版）（Linux Kernel Development, 3rd Edition, Robert Love）
+
+2、《Linux设备驱动程序》（第3版）（Linux Device Driver, 3rd Edition, Jonathan Corbet et al）
+3、《深入Linux内核架构》（Professional Linux Kernel Architecture, Wolfgang Mauerer）
+
+
+应用
+
+1、《UNIX环境高级编程》（Advanced Programming in the UNIX Environment, W. Richard Stevens）
+2、《UNIX网络编程》（Unix Network Programming, W. Richard Stevens）
+
+
+进阶
+1、《C陷阱与缺陷》（C Traps and Pitfalls, Andrew Koenig）
+2、《C专家编程》（Expert C Programming, Petervan der Linden）
+3、《ARM嵌入式系统开发：软件设计与优化》（ARM System Developer's Guide: Designing and Optimizing System Software, Andrew Sloss et al）
+
+在线资源 
+
+基础
+1、MOOC课程《C语言程序设计》翁恺   目的：请择期学习课程，并参加考试，申请认证证书。
+链接：https://link.zhihu.com/?target=http%3A//www.cnblogs.com/JeffreyZhao/archive/2009/11/23/recommended-reading-3-csapp.html
+
+2、Python简明教程：A Byte of Python		目的：学习Python，编写并运行所有示例代码。
+链接：https://link.zhihu.com/?target=http%3A//www.swaroopch.com/notes/python/
+
+3、Linux Shell简明教程	目的：熟悉Linux Shell，掌握基本的shell脚本编程。
+链接：https://link.zhihu.com/?target=https%3A//oj.leetcode.com/
+
+4、LeetCode OJ在线试题	目的：独立、自主完成至少2/3或更多题目，目前支持C++、Java和Python三种语言答题。
+链接：https://link.zhihu.com/?target=https%3A//oj.leetcode.com/
+
+5、刘未鹏：怎样花两年时间去面试一个人？       建议提前两年参考这篇文章，做好面试准备。
+链接：https://link.zhihu.com/?target=http%3A//mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/
+
+
+附注
+StackOverflow有一份C语言图书指南（The Definitive C Book Guide and List）：分为Reference Style（参考、大全）、Beginner（初学）、Intermediate（中阶）、Above Intermediate（高阶）四类。
+链接：https://link.zhihu.com/?target=http%3A//stackoverflow.com/a/562377/2351918
+
+
